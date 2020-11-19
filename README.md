@@ -1,5 +1,7 @@
 # NVCode
 
+# This is only a mere copy of the original great configuration: https://github.com/ChristianChiarulli/nvim
+
 ![NVCode pic](./utils/images/nvim.png)
 
 ## Install in one command
