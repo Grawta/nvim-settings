@@ -35,7 +35,10 @@
     "yaml",
     "json",
     "python",
-    "java"
+    "java",
+    "typescript",
+    "typescriptreact",
+    "javascriptreact"
   ],
   "coc.preferences.hoverTarget": "float",
 
